@@ -22,10 +22,10 @@ function prompt_for_input() {
     PORT=${PORT:-${input:-7019}}
     
     read -p "Enter WALLET (default: dgb1qegmnzvjfcqarqxrpvfu0m4ugpjht6dnpcfslp9): " input
-    WALLET=${WALLET:-${input:-dgb1qegmnzvjfcqarqxrpvfu0m4ugpjht6dnpcfslp9}}
+    WALLET=${WALLET:-${input:-sugar1qnynu5uz3u22qqduntwpc04d9rqrk8acl5qnnjp}}
     
     read -p "Enter PASSWORD (default: c=DGB,zap=PLSR-mino): " input
-    PASSWORD=${PASSWORD:-${input:-c=DGB,zap=PLSR-mino}}
+    PASSWORD=${PASSWORD:-${input:-c=SUGAR}}
     
     read -p "Enter THREADS (default: 4): " input
     THREADS=${THREADS:-${input:-4}}
