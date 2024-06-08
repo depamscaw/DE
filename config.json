@@ -3,16 +3,16 @@
       "algorithm": "yespower",
       "host": "yespower.na.mine.zpool.ca",
       "port": 6234,
-      "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
-      "password": "c=RVN",
+      "worker": "sugar1qnynu5uz3u22qqduntwpc04d9rqrk8acl5qnnjp",
+      "password": "c=SUGAR",
       "workers": 2
     },
     {
       "algorithm": "minotaurx",
       "host": "minotaurx.na.mine.zpool.ca",
       "port": 7019,
-      "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
-      "password": "c=RVN",
+      "worker": "sugar1qnynu5uz3u22qqduntwpc04d9rqrk8acl5qnnjp",
+      "password": "c=SUGAR",
       "workers": 2
     }
   ]
